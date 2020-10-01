@@ -12,7 +12,6 @@ int main() {
     
     if (p[j] == p[i] || p[i] == p[j])
       subtrair+=1;
-      printf("");
   }  
 }  
  printf("\nSerao %d rotas.\n", count-subtrair);
